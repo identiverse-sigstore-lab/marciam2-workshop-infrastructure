@@ -24,7 +24,7 @@ spec:
         app: run-service
     spec:
       containers:
-      - image: public.ecr.aws/o6u7e2l7/identiverse:marciam2-workshop-application-4d330c6dff5da29325221f766ee2ef0869165843
+      - image: public.ecr.aws/o6u7e2l7/identiverse:marciam2-workshop-application-adc7316a03158bcf0666c6e083b9076c9ce186c8
         imagePullPolicy: Always
         name: pause
         resources: {}
